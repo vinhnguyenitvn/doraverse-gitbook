@@ -1,0 +1,13 @@
+---
+hidden: true
+---
+
+# Help center
+
+## Admin portal
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Login</strong></td><td>How to Access Admin Workspace?</td><td><a href="https://doraverse.gitbook.io/admin-portal/jp#wkusupsuhenoakusesu">https://doraverse.gitbook.io/admin-portal/jp#wkusupsuhenoakusesu</a></td></tr><tr><td><strong>Member Management</strong></td><td>Easily add, manage, and organize users in your workspace — all in one place.</td><td><a href="https://doraverse.gitbook.io/admin-portal/jp/member-management">https://doraverse.gitbook.io/admin-portal/jp/member-management</a></td></tr><tr><td><strong>Department Management</strong></td><td>Organize your workspace into departments, making it easy to manage teams, assign resources, and monitor usage.</td><td><a href="https://doraverse.gitbook.io/admin-portal/jp/department-anagement">https://doraverse.gitbook.io/admin-portal/jp/department-anagement</a></td></tr><tr><td><strong>Dashboard</strong></td><td>Brings together all essential reports and analytics for quick, data-driven decision-making.</td><td><a href="https://doraverse.gitbook.io/admin-portal/jp/dashboard">https://doraverse.gitbook.io/admin-portal/jp/dashboard</a></td></tr><tr><td><strong>AI Models</strong></td><td>Assign specific AI models that best suit each department's needs.</td><td><a href="https://doraverse.gitbook.io/admin-portal/jp/setup-ai-models">https://doraverse.gitbook.io/admin-portal/jp/setup-ai-models</a></td></tr><tr><td><strong>AI Limits</strong></td><td>Control how much access the entire workspace or individual users have when using models.</td><td><a href="https://doraverse.gitbook.io/admin-portal/jp/aino">https://doraverse.gitbook.io/admin-portal/jp/aino</a></td></tr></tbody></table>
+
+## User
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>AI Chat</strong></td><td>Chat with the best AI models — no tab switching, easy side-by-side results.</td><td><a href="https://app.gitbook.com/o/82vBJyO5pm9NI6vFgkPF/s/Zxq4nUoazpe7e7RwKkoY/">User</a></td></tr><tr><td><strong>AI Agents</strong></td><td>Build smart agents for Sales, HR, Marketing, and more — in minutes.</td><td><a href="https://app.gitbook.com/o/82vBJyO5pm9NI6vFgkPF/s/9nHBffPuUdNDVJIczPss/">Admin</a></td></tr><tr><td><strong>DeepResearch</strong></td><td>Your 24/7 research assistant — find insights, save hours of analysis.</td><td></td></tr><tr><td><strong>Projects</strong></td><td>Keep chats, files organized by topic, and everything in one place.</td><td></td></tr></tbody></table>
