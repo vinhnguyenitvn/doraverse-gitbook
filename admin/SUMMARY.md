@@ -19,3 +19,4 @@
 * [Integration & Automation](integration-and-automation.md)
 * [Billing & Plans](billing-and-plans.md)
 * [Branding Setting](branding-setting.md)
+* [Custom domain](custom-domain.md)
