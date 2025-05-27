@@ -9,6 +9,8 @@ icon: robot
 
 [Step-by-Step Guide to Build Your Own AI Agent in Doraverse](./#step-by-step-guide-to-build-your-own-ai-agent-in-doraverse)
 
+[Using Your Agent](./#using-your-ai-agent)
+
 [Why Build AI Agents in Doraverse?](./#why-build-ai-agents-in-doraverse)
 
 ## AI Agent Feature in Doraverse
@@ -31,138 +33,161 @@ You’ll see three organized sections:
 * **Your Agents:** View and manage all agents you’ve personally created.
 * **By Your Team:** Discover agents made by your teammates, ready for collaboration.
 
-### To **create a new Agent**
+### 2. Create **an Agent**
 
 Click the **Create Agent** button located at the top right corner of the screen. This will open the **Agent Builder**, where you can start designing your custom AI Agent from scratch.
 
-### Find Exiting Agents
-
-Existing agents can be selected from the top dropdown of the right Side Panel.
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-Also by mention with ”@” in the chat input.
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-***
-
-### 2. Set Up Agent's Profile
-
 The creation of Agent includes:
 
-* **Avatar:** Upload an image to use as your agent’s profile picture, making it easier for your team to recognize and connect with it.
-* **Name:** Give your agent a relevant name.
-* **Description**: Add a short note describing what this agent is for. Example: “Summarizes meeting transcripts automatically.”
-* **Instructions:** System instructions that define your agent’s behavior. You should write out clear directions —how should this agent behave, what should it focus on, any rules it should always follow.
-* **Provider & Model:** Choose an AI model that best fits your task from the available list.&#x20;
+* **Basic Setting:** Avatar, Name, Description, Instructions, Provider & Model, Model Parameters
+* **Extensions:** Conversation starters, Knowledge, Code Interpreter API, Capabilities, Tools + Actions
 
-🤔 Not sure which one to pick? Visit the [**Doraverse's Available AI Models**](https://doraverse.gitbook.io/docs/jp/feature-list/available-ai-models) to see the strengths of each model and find the right match for your needs.
+### 2.1 Basic Setting: Customize Your AI Agent’s Core Profile
 
-***
+When creating your AI Agent, the Basic Settings are the foundation that shape its identity and behavior.&#x20;
 
-### **3.** Set Up **Model Parameters**
+<figure><img src="../../.gitbook/assets/Basic Setting_Create Agent.png" alt=""><figcaption></figcaption></figure>
 
-Model Parameters are settings that control how your AI agent responds and generates results.&#x20;
+Here’s what you need to know to set up your agent effectively
 
-By adjusting these values, you can influence the agent’s behavior, such as: how creative it is, how detailed its answers are, or how it interprets your requests. In simple terms, model parameters help you customize how your agent processes information and creates text or images, so the results fit your specific needs.
+### **Avatar**
 
-Want tips on how to adjust your model’s parameters for the best results? Visit our [**Model Parameter Guide**](https://doraverse.gitbook.io/docs/jp/feature-list/ai-agents/ai-model-parameter) for step-by-step instructions and practical examples.
+Upload an image to personalize your agent’s profile and make it instantly recognizable to your team.
 
-***
+### **Name**
 
-### 4. Choose Agent Capabilities
+Choose a clear, relevant name that reflects your agent’s purpose for easy identification.
 
-Expand what your Agent can do with powerful capabilities
+### **Description**
 
-#### **Code Interpreter**
+Add a concise note that describes what your agent does, helping your team quickly grasp the agent’s function and value.
 
-**What is Code Interpreter?**
-
-A code interpreter is like a smart assistant that understands computer code, so you can get complex computer tasks done just by asking in regular language.
-
-**When Should You Enable Code Interpreter?**
-
-Turn on Code Interpreter if you want your agent to:
-
-* **Execute code in multiple languages:** Work with Python, JavaScript, TypeScript, Go, C, C++, Java, PHP, Rust, and Fortran.
-* **Run code with zero setup:** Run code without local setup, configuration, or sandbox deployment.
-* **Process files: Agent will** handle and analyze file securely:
-  * Work with numbers or perform advanced calculations
-  * Analyze data sets or spreadsheets
-  * Process files or automate repetitive data work
-* **Manage file uploads and downloads:** Easily upload files for processing and download results, making the workflow smooth and efficient.
-
-#### File Search
-
-**What is File Search?**
-
-File Search gives your AI agent the power to rapidly search and understand your uploaded documents. It’s like giving your assistant a supercharged memory—helping you quickly find the right answers and information from all your important files.
-
-**When Should You Enable File Search?**
-
-* **Provide answers using your files:** The agent retrieves facts or details directly from your uploaded documents, making it well-suited for tasks like research, onboarding, or instant knowledge retrieval from your own files.
-* **Perform semantic searches:** Go beyond just keywords, the agent can understand the intent and meaning behind your questions.
-* **Support Retrieval-Augmented Generation (RAG):** Responses become more accurate and context-aware when referencing your own documents.
-
-#### File Context (OCR)
-
-**What is File Context (OCR)?**
-
-File Context uses Optical Character Recognition (OCR) to let your agent extract and process text from images and scanned document, turning photos, PDFs, or screenshots into readable and actionable text.
-
-**When Should You Enable File Context (OCR)?**
-
-* **Extract text while preserving layout:** Retain tables, columns, and original formatting for easier interpretation.
-* **Process complex files:** Handle mixed-content images, invoices, forms, or documents with multiple languages.
-* **Read hard-to-access content:** Work with scans, photos, or non-editable PDFs that you normally couldn’t search or analyze.
-
-#### Artifacts (Interactive Outputs)
-
-**What is Artifacts?**
-
-Artifacts lets your agent generate and display interactive or visual results, like diagrams, charts, and code examples—to make responses not just informative, but engaging and visually accessible.
-
-**When Should You Enable Artifacts?**
-
-Enable Artifacts for team presentations, building visual workflows, or explaining complex concepts with engaging visuals:
-
-* **Create visual or interactive outputs:** Auto-generate React components, HTML snippets, or diagrams.
-* **Present results visually:** Show content in a focused UI window for greater clarity and interactivity.
-* **Customize outputs:** Adjust how the agent produces and displays custom visual or interactive content.
-
-When Artifacts are enabled, the agent automatically includes additional, artifact-specific instructions by default. The options available include:
-
-* **Enable shadcn/ui Instructions:** Adds guidance for using shadcn/ui components—a collection of reusable components built with Radix UI and Tailwind CSS.
-* **Custom Prompt Mode:** When this is enabled, the default artifact system prompt is not included, allowing you to provide your own custom instructions.\
-  **Note:** If you enable Custom Prompt Mode, be sure to include, at minimum, the basic artifact format in your instructions.
-
-For more details, see [**Agent's Capabilities**](https://doraverse.gitbook.io/docs/jp/feature-list/ai-agents/agents-capabilities).
+_For example: Summarizes meeting transcripts automatically._
 
 ***
 
-### 5. Add Tools & Actions
+### Instructions
 
-Enhance your agent’s capabilities by enabling extra tools:
+System instructions define the agent’s core behavior. Well-crafted instructions ensure your agent operates consistently and delivers the results you expect. Write clear and specific directions covering:
 
-* **Integrations:** Let your agent access weather, web search, image generation, calculation features, and more. Choose only those relevant to your workflow for a focused, clutter-free experience.
-
-***
-
-### 6. Set Sharing & Permissions
-
-* **Share Your Agent:** Set permissions to either keep your agent private or share it with colleagues.
-* **Admin Settings:** If you’re an admin, you can control sharing for everyone across your organization, ensuring sensitive agents stay protected.
+* How the agent should behave
+* What it should focus on
+* Any rules or boundaries it should always follow
 
 ***
 
-### 7. Launch: Start Using Your AI Agent
+### Provider & Model
 
-Click **Create** to finish. Your new agent is ready to chat.&#x20;
+Select the AI model best suited to your task from the available options. Each model offers unique strengths tailored to different types of requests.
 
-Find it listed in your AI Agent space, or mention it by typing "@" in the chat.
+Explore [**Doraverse's Available AI Models**](https://doraverse.gitbook.io/docs/feature-list/available-ai-models) to see detailed profiles highlighting the strengths and ideal use cases for each model, helping you find the perfect match.
 
 ***
+
+### Model Parameters
+
+These settings control how your AI agent processes inputs and crafts responses. In simple terms, model parameters shape how your agent thinks and communicates — enabling you to fine-tune results for precision or innovation.
+
+* **Temperature (Randomness or Creativity):** Controls how creative or varied the agent’s responses are. Higher values make answers more imaginative, while lower values keep them more focused and predictable.
+* **Top\_p (Response Variety):** Controls how many word options the model considers when answering. Lower values focus on the most likely words for precise replies; higher values add diversity.
+
+**Note:** It’s best to adjust either Temperature or Top\_p, not both at once.
+
+* **Max Context Tokens (Input Length Limit):** Sets the maximum number of tokens (words or word parts) the model can use from your input and conversation history.
+* **Max Output Tokens (Output Length Limit):** Limits how long the model’s answer can be, measured in tokens.
+* **Frequency Penalty (Repetition Reduction):** Discourages the model from repeating the same words or phrases to keep responses fresh.
+* **Presence Penalty (Topic Exploration):** Encourages the model to introduce new topics or ideas instead of repeating existing ones.
+* **Prompt Caching (Reuse of Input):** Allows the model to remember and reuse parts of your last prompt for faster response time when you retry or regenerate answers.
+* **Stop Sequences (Response End Markers):** Defines specific words or phrases that tell the model when to stop generating more text.
+* **Reasoning Effort (Depth of Thought):** Adjusts how carefully the model thinks through its answers; higher settings yield more thoughtful and detailed responses.
+* **Image Detail:** Controls how deeply the model interprets images you upload, affecting the quality and detail of visual analysis.
+* **Resend Files:** Determines whether uploaded files should be reprocessed when regenerating a response, useful for updating or retrying results.
+
+_**🤔 Need guidance on optimizing these parameters?**_
+
+Check out our [**Model Parameter Guide**](https://doraverse.gitbook.io/docs/feature-list/ai-agents/ai-model-parameter) for clear, step-by-step tips and practical examples designed to get the best performance from your agent.
+
+**Note:** You need to click **Create Agent** to access more settings.
+
+### 2.2 Extensions: Enhance Your AI Agent’s Power
+
+Extensions in Doraverse add advanced features and capabilities to your AI agent, empowering it to understand, respond, and perform tasks with greater intelligence and flexibility.
+
+<figure><img src="../../.gitbook/assets/Extensions_Create Agent.png" alt=""><figcaption></figcaption></figure>
+
+### **Conversation Starters**
+
+Set initial prompts that your agent uses to kick off conversations. These starters help shape the purpose right from the first interaction, making it easier for users to engage effectively.
+
+***
+
+### **Knowledge**
+
+**File Search**
+
+Your agent’s Knowledge base is where it draws information to provide accurate, relevant answers. By **Add files**, your agent can access and search your documents and understand the meaning behind questions, making it ideal for research, onboarding, and data-driven tasks.
+
+**Code Interpreter API**
+
+A Code Interpreter is like a smart assistant that understands and runs computer code based on your natural language requests—no coding setup required. When you upload files for the Code Interpreter, it can process, analyze, and help you write code quickly and accurately.
+
+***
+
+### **Capabilities**
+
+**Enable Code Interpreter** if you want your agent to:
+
+* Execute code in multiple languages such as Python, JavaScript, Go, C++, Java, PHP, Rust, and more, without any local setup, configuration, or sandbox.
+* Manage file uploads and downloads smoothly for seamless workflows.&#x20;
+* Securely process and analyze files. Perform complex calculations and work with numbers or large data sets.
+
+**Enable Artifacts** when you:
+
+* Need to create visual or interactive outputs like React components, HTML snippets, or diagrams automatically.
+* Want to present results visually within a focused UI window for clarity and ease of use.
+* Wish to customize how your agent generates and displays interactive or visual content
+
+**Enable File Search** when you:
+
+* Want your agent to provide answers by retrieving facts directly from your uploaded documents, perfect for research, onboarding, or instant knowledge access.
+* Need semantic search capabilities that understand the meaning and intent behind queries, not just keywords.
+
+***
+
+### Tools + Actions
+
+**Actions**
+
+Actions let you extend your AI agent’s capabilities by connecting it to external services through APIs. This enables your agent to interact with real-world data and perform useful tasks, like checking the weather, booking meetings, or retrieving important information. Think of it as teaching your agent a new skill: _**how to communicate seamlessly with other programs!**_
+
+To create an action, you’ll need to provide:
+
+* **Authentication:** Specify if the agent requires a password or special access to connect to the service. If you’re unsure, you can leave this set to “None.”
+* **Schema:** This defines how the AI agent communicates with the service. Most users can select from ready-made examples, or you can ask a technical teammate to help you complete this part.
+* **Privacy Policy URL:** Add a link to the service’s privacy policy to ensure transparency and build trust.
+
+Once set up, your agent will be empowered to perform these new actions, making it even more helpful and responsive.
+
+**Integrations**
+
+Connect your agent to powerful external services like Google search, image generation, calculations, and more. Select only the integrations relevant to your workflow to keep your agent focused and your interface clutter-free.
+
+***
+
+### **Publish Your Agent**
+
+Use these settings to control who can access and modify your agent:
+
+* Share to all users: This allows everyone in your organization to find and use the agent.
+* Allow other users to edit your agent: This allows teammates collaborate by editing your agent’s configuration. When off, only you can make changes.
+
+<figure><img src="../../.gitbook/assets/Share Agent.png" alt=""><figcaption></figcaption></figure>
+
+## Using Your AI Agent
+
+Find you Agent listed in your AI Agent space, in the right Side Panel or mention it by typing "@" in the chat.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 💡**Tips**
 
