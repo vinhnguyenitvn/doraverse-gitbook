@@ -160,6 +160,8 @@ A Code Interpreter is like a smart assistant that understands and runs computer 
 
 Actions let you extend your AI agent’s capabilities by connecting it to external services through APIs. This enables your agent to interact with real-world data and perform useful tasks, like checking the weather, booking meetings, or retrieving important information. Think of it as teaching your agent a new skill: _**how to communicate seamlessly with other programs!**_
 
+<figure><img src="../../.gitbook/assets/Add Actions.png" alt=""><figcaption></figcaption></figure>
+
 To create an action, you’ll need to provide:
 
 * **Authentication:** Specify if the agent requires a password or special access to connect to the service. If you’re unsure, you can leave this set to “None.”
@@ -171,6 +173,8 @@ Once set up, your agent will be empowered to perform these new actions, making i
 **Integrations**
 
 Connect your agent to powerful external services like Google search, image generation, calculations, and more. Select only the integrations relevant to your workflow to keep your agent focused and your interface clutter-free.
+
+<figure><img src="../../.gitbook/assets/Intergration.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
