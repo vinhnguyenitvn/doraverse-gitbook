@@ -11,10 +11,13 @@ Follow the steps below to install Doraverse on your Desktop or Mobile device.
 ## Desktop Installation (Mac & Windows) <a href="#desktop-installation-mac-and-windows" id="desktop-installation-mac-and-windows"></a>
 
 1. Go to your Doraverse workspace URL on browser.
-2. Look for the  "➕ " or **“Install Doraverse”** icon on the right side of the address bar.
-3. Confirm by clicking **Install**.
+2. Look for the desktop download icon  or "➕ " on the right side of the address bar.
 
-Doraverse will now appear in your Start Menu or Applications folder — just like a native app!
+<figure><img src="../.gitbook/assets/Doraverse app on desktop_Doraverse (1).png" alt=""><figcaption></figcaption></figure>
+
+3. Confirm by clicking **Install**. Doraverse will now appear in your Start Menu or Applications folder — just like a native app!
+
+<figure><img src="../.gitbook/assets/Instal app on desktop_Doraverse (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Mobile Installation (iOS & Android) <a href="#mobile-installation-ios-and-android" id="mobile-installation-ios-and-android"></a>
 
