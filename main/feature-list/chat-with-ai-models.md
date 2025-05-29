@@ -143,13 +143,12 @@ Have the AI read the response aloud, convenient for multitasking or accessibilit
 
 #### **6. Branch from This**
 
-Create a new conversation thread starting from the selected response. This lets you explore different follow-up questions or new directions while keeping your original chat intact.
+When you choose Branch from This, you’re starting a new conversation path from a specific message, lets you explore new ideas from any point.\
+You will have three **Fork options** to decide how much of the chat you want to include in your new branch:
 
-**Branching Options:**
-
-* **Visible Messages Only:** Forks just the visible conversation path leading up to the selected message (excluding branches).
-* **Include Related Branches:** Forks the visible path plus any related branches encountered along the way.
-* **Include All To/From Here:** Forks the entire conversation context linked to the selected message, including all branches (visible or hidden).
+* **Visible messages only:** Adds just the direct conversation leading to your selected message.
+* **Include related branches:** Includes additional side discussions connected to that part of the conversation.
+* **Include all to/from here:** Brings in the entire conversation history and all related branches, giving you complete context.
 
 **Additional Settings:**
 
