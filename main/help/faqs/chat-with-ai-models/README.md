@@ -34,7 +34,7 @@ See [**Doraverse Available AI Models**](https://doraverse.gitbook.io/documents/f
 
 ## Can I save or export the chat conversations for future reference?
 
-Yes, you can export chats as text files or save them within Doraverse for easy access and review later. For detailed steps, please see the **Share/Export Conversation** page.
+Yes, you can export chats as text files or save them within Doraverse for easy access and review later. For detailed steps, please see the [**Share/Export Conversation**](https://doraverse.gitbook.io/docs/feature-list/chat-with-ai-models#conversation-options-three-dot-menu) page.
 
 ***
 
@@ -42,7 +42,7 @@ Yes, you can export chats as text files or save them within Doraverse for easy a
 
 You can create a dedicated AI Agent, essentially a personalized AI assistant—designed to handle specific tasks relevant to your department. These Agents can understand your team’s unique objectives, workflows, language, requirements, and delivering tailored responses and automating routine processes like report generation, customer support, data analysis, or content creation.&#x20;
 
-To get started and learn more about how AI Agents can enhance your work, visit the **AI Agents in Doraverse**.
+To get started and learn more about how AI Agents can enhance your work, visit the [**AI Agents** ](https://doraverse.gitbook.io/docs/feature-list/ai-agents)**in Doraverse**.
 
 ***
 
@@ -68,7 +68,7 @@ When a provider releases an updated or new model, the Doraverse team carefully t
 
 ## What should I do if I encounter an error message while chatting with a model?
 
-Error messages can occur due to various reasons such as network issues, browser settings, or system disruptions. To troubleshoot common errors and find step-by-step solutions, please visit our **Error Messages Troubleshooting** page.
+Error messages can occur due to various reasons such as network issues, browser settings, or system disruptions. To troubleshoot common errors and find step-by-step solutions, please visit our [**Error Messages Troubleshooting**](https://doraverse.gitbook.io/docs/help/troubleshooting).
 
 ***
 

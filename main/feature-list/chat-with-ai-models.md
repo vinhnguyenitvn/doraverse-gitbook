@@ -14,22 +14,23 @@ icon: comment-dots
 
 [Feedback and Action Bar](chat-with-ai-models.md#feedback-and-action-bar)
 
+[Citations with clickable source links](chat-with-ai-models.md#citations-with-clickable-source-links)
+
 [Conversation Sidebar](chat-with-ai-models.md#conversation-sidebar)
 
 [Conversation Options: Move to Project, Rename, Duplicate, Archive, Share](chat-with-ai-models.md#conversation-actions)
 
 ## Create New Chat
 
-Quickly create a new conversation for any idea, question, or task.
-
-**📌 Here's how:**&#x20;
-
-* At the **Navigation Sidebar,** go to **Chat**
-* At the top of the left **Conversation Sidebar,** click **Create chat icon**
+At the main screen, find the **New Chat** icon at the top left corner, next the models dropdown.&#x20;
 
 A new, blank chat window will open. Choose your model and start typing.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/New Chat.png" alt=""><figcaption></figcaption></figure>
+
+If you open the **Conversation Sidebar** (the button next to your logo), the **New Chat** button will move into it, located next to Search Message bar.
+
+<figure><img src="../.gitbook/assets/New Chat_2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -37,13 +38,9 @@ A new, blank chat window will open. Choose your model and start typing.
 
 Instantly switch between powerful AI models to get the best response for every task — writing, coding, searching, and more.
 
-**📌 Here's how:**&#x20;
+At the top-left corner of the chat screen, click the dropdown menu to view available LLM models and version. Each model comes with a brief description of its strengths and ideal uses, making it easy to choose the right one for your needs.
 
-* At the top-left corner of the chat screen, click the dropdown menu to view available LLM models and version.
-* Each model comes with a brief description of its strengths and ideal uses, making it easy to choose the right one for your needs.
-* Click to select your preferred model and start chatting right away.
-
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Choose Model to chat (1).png" alt=""><figcaption></figcaption></figure>
 
 💡 **Tip:**\
 Not sure which model to use? Try several for the same question and see which gives you the results you like best.&#x20;
@@ -56,28 +53,46 @@ For even more details, visit our [**Available AI Model**](https://doraverse.gitb
 
 The Chat Toolbar offers a powerful set of tools and shortcuts to help you interact seamlessly with the AI Models. Here’s a quick overview of each button available in the Doraverse's chat bar:
 
-### 📎 Attachment (+) Button — **Add Attachment**
+### 📎 Upload File (+)
 
-Add files, images, or other attachments to your message.
+Easily upload and share files with AI in chat to support your conversations. Click the plus (+) icon in your chat toolbar to access two options:
 
-### 💬 Prompt ( / ) Button — **Open Prompt Library**
+* **Upload from computer:** Choose files stored locally on your device.
+* **Connect to Google Drive:** Select files directly from your Google Drive for instant integration.
+
+<figure><img src="../.gitbook/assets/Connect to GG Drive.png" alt=""><figcaption></figcaption></figure>
+
+#### How to connect your Google Drive to Doraverse:
+
+* Option 1: In the chat bar, click on (+) icon and select **Connect to Google Drive**.
+* Option 2: Go to **Account** -> **Settings** -> **Connected apps** -> Find **Google Drive** and click **Connect**.
+
+After selecting Google Drive, you may be prompted to sign in and enable Doraverse access.
+
+<figure><img src="../.gitbook/assets/Connect GG Drive.png" alt=""><figcaption></figcaption></figure>
+
+Once access is granted, you’ll be able to browse and pick files directly from your Google Drive within the chat.
+
+<figure><img src="../.gitbook/assets/Connect GG Drive_2.png" alt=""><figcaption></figcaption></figure>
+
+### 💬 Prompt **Library** ( / )&#x20;
 
 Press or type “/” to quickly insert prompts by command or name.\
 **To learn more, see our** [**Prompt Library Feature**](https://doraverse.gitbook.io/docs/jp/feature-list/prompt-library)**.**
 
-### 🌀 Mention (@) Button — **Mention Agent**
+### 🌀 Mention (@)
 
 Press or type “@” to quickly mention an agent or preset and switch to it instantly.
 
-### 🔳 Compare Results (Square with +) Button&#x20;
+### 🔳 Compare Results (Square with +)&#x20;
 
 Add another model and compare results side-by-side. This is useful for evaluating and selecting the best answer.
 
-### 🎙 Microphone Button — **Voice Input / Speech-to-Text**
+### 🎙 **Voice Input / Speech-to-Text**
 
 Tap the microphone to dictate your message using voice input. The AI will transcribe your speech into text.
 
-### ⬆️ Send (Arrow) Button — **Send Message**
+### ⬆️ Send **Message**
 
 Press the arrow button to send your message and receive a response from the AI.
 
@@ -93,9 +108,13 @@ Some common tools in Doraverse include:
 
 Look up current information from the web—useful if you want answers that need up-to-date facts, like news, weather, or recent events.
 
+Responses include inline citations with clickable source links for easy verification.
+
 ### 📚 **Deep Research Tool**
 
-An agent that uses reasoning to synthesize large amounts of online information and complete multi-step research tasks for you..
+An agent that uses reasoning to synthesize large amounts of online information and complete multi-step research tasks for you.
+
+Responses include inline citations with clickable source links for easy verification.
 
 ### ✒ **Canvas**
 
@@ -103,7 +122,9 @@ Open an interactive space to draw, sketch diagrams, or visualize your ideas.
 
 ### 🖼 **Create Images**
 
-Generate creative images directly within the chat.
+Turn simple, natural-language prompts into stunning visuals directly within your chat, powered by **gpt-image-1**.
+
+See details in [**Create Images**](https://doraverse.gitbook.io/docs/feature-list/create-image)**.**
 
 ### 💻 **Code Interpreter**
 
@@ -115,18 +136,18 @@ Run code or perform data analysis within your chat—ideal for technical and dat
 
 The Feedback and Action Bar provides easy ways to interact with each AI response, helping improve the AI model and making your experience more efficient.&#x20;
 
-#### **1. Provide Feedback: Like & Dislike**
+#### **1. Provide Feedback**
 
 * **Thumbs-Up (Like):** Click this if the AI’s response is helpful, clear, or accurate. Positive feedback helps the model identify effective responses and reinforce quality answers.
 * **Thumbs-Down (Dislike):** Click this if the response is incorrect, incomplete, or confusing. Negative feedback helps the model recognize errors and avoid repeating them in future responses.
 
-#### **2. Suggest Edit: Pencil Icon**
+#### **2. Suggest Edit**
 
 If the AI’s response could be clearer, more precise, or better phrased, use the pencil icon to suggest improvements. This helps the model learn preferred styles, wording, and information accuracy.
 
 After making your edits, don’t forget to click **Save & Submit** to send your suggestions.&#x20;
 
-#### **3. Copy Response: Copy to Clipboard Icon**
+#### **3. Copy Response**
 
 Use this to quickly copy the AI’s response for use elsewhere:
 
@@ -157,9 +178,21 @@ You will have three **Fork options** to decide how much of the chat you want to 
 
 ***
 
+## Citations with clickable source links
+
+When using search models (including available search AI models and Doraverse’s built-in Search/Deep Research tool), you’ll notice **inline citations (e.g., \[1], \[2]) at the end of each sentence** when a response is informed by external information.&#x20;
+
+To verify or explore information further, simply hover over a citation. This allows you to review the original source—ensuring full transparency and reliability in every answer.
+
+<figure><img src="../.gitbook/assets/Source LinksCitations.png" alt=""><figcaption></figcaption></figure>
+
+***
+
 ## Conversation **Sidebar**
 
 The **Conversation Sideba**r is your conversation central navigation hub, helping you seamlessly switch between conversations and projects, stay organized and manage your work more efficiently.
+
+<figure><img src="../.gitbook/assets/Conversation Sidebar.png" alt=""><figcaption></figcaption></figure>
 
 You can choose to hide or show the Conversation Sidebar at any time by clicking the toggle button.
 
@@ -178,8 +211,6 @@ Easily keep chats, files, and custom instructions in one place. Use Projects to 
 ### 📃 Chat History
 
 Your recent conversations are organized by time, so you can effortlessly locate and pick up where you left off.&#x20;
-
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### ⋮ Conversation Options (Three-Dot Menu)
 
