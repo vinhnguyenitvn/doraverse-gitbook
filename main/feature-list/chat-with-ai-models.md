@@ -45,7 +45,7 @@ At the top-left corner of the chat screen, click the dropdown menu to view avail
 💡 **Tip:**\
 Not sure which model to use? Try several for the same question and see which gives you the results you like best.&#x20;
 
-For even more details, visit our [**Available AI Model**](https://doraverse.gitbook.io/docs/jp/feature-list/available-ai-models) for an in-depth comparison.
+For even more details, visit our [**Available AI Model**](https://doraverse.gitbook.io/docs/feature-list/available-ai-models) for an in-depth comparison.
 
 ***
 
@@ -78,7 +78,7 @@ Once access is granted, you’ll be able to browse and pick files directly from 
 ### 💬 Prompt **Library** ( / )&#x20;
 
 Press or type “/” to quickly insert prompts by command or name.\
-**To learn more, see our** [**Prompt Library Feature**](https://doraverse.gitbook.io/docs/jp/feature-list/prompt-library)**.**
+**To learn more, see our** [**Prompt Library Feature**](https://doraverse.gitbook.io/docs/feature-list/prompt-library)**.**
 
 ### 🌀 Mention (@)
 
@@ -180,7 +180,7 @@ You will have three **Fork options** to decide how much of the chat you want to 
 
 ## Citations with clickable source links
 
-When using search models (including available search AI models and Doraverse’s built-in Search/Deep Research tool), you’ll notice **inline citations (e.g., \[1], \[2]) at the end of each sentence** when a response is informed by external information.&#x20;
+When using search models (including available search AI models and Doraverse’s built-in Search/Deep Research tool), you’ll notice **inline citations** (e.g., \[1], \[2]) at the end of each sentence when a response is informed by external information.&#x20;
 
 To verify or explore information further, simply hover over a citation. This allows you to review the original source—ensuring full transparency and reliability in every answer.
 
@@ -206,7 +206,7 @@ Enter a keyword to instantly see related messages and conversations. Quickly fin
 
 Easily keep chats, files, and custom instructions in one place. Use Projects to stay on top of ongoing tasks or simply to keep your workspace tidy and efficient.
 
-**See**[ **How to Create a Project**](https://doraverse.gitbook.io/docs/jp/feature-list/project#how-to-create-a-project)
+**See**[ **How to Create a Project**](https://doraverse.gitbook.io/docs/feature-list/project#how-to-create-a-project)
 
 ### 📃 Chat History
 
