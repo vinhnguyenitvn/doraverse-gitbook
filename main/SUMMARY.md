@@ -22,6 +22,7 @@
       * [Code Interpreter](feature-list/ai-agents/agents-capabilities/code-interpreter.md)
       * [Artifact](feature-list/ai-agents/agents-capabilities/artifact.md)
   * [Prompt Library](feature-list/prompt-library.md)
+  * [Create Image](feature-list/create-image.md)
 
 ## Admin Workspace  <a href="#admin" id="admin"></a>
 
