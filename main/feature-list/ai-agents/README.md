@@ -113,7 +113,7 @@ Check out our [**Model Parameter Guide**](https://doraverse.gitbook.io/docs/feat
 
 Add advanced features and capabilities to your AI agent with more settings, empowering it to understand, respond, and perform tasks with greater intelligence and flexibility.
 
-<figure><img src="../../.gitbook/assets/More Settings_Agent.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/More Settings_Agent (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Conversation Starters**
 
