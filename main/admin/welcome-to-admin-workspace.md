@@ -14,8 +14,8 @@ Admin Workspace in Doraverse is a centralized control panel for administrators t
 [member-management.md](../member-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="../department-management.md" %}
-[department-management.md](../department-management.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../portal-setting/setup-ai-limits.md" %}

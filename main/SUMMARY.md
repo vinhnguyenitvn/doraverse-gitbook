@@ -35,7 +35,6 @@
 ***
 
 * [👤 Member Management](member-management.md)
-* [👥 Department Management](department-management.md)
 * [🔀 Portal Setting](portal-setting/README.md)
   * [🧳 Branding Setting](portal-setting/branding-setting.md)
   * [🤖 Setup AI Models](portal-setting/setup-ai-models.md)
