@@ -36,9 +36,10 @@
 
 * [👤 Member Management](member-management.md)
 * [👥 Department Management](department-management.md)
-* [🤖 Setup AI Models](setup-ai-models.md)
-* [🚧 Setup AI Limits](setup-ai-limits.md)
-* [🧳 Branding Setting](branding-setting.md)
+* [🔀 Portal Setting](portal-setting/README.md)
+  * [🧳 Branding Setting](portal-setting/branding-setting.md)
+  * [🤖 Setup AI Models](portal-setting/setup-ai-models.md)
+  * [🚧 Setup AI Limits](portal-setting/setup-ai-limits.md)
 
 ## Help Center <a href="#help" id="help"></a>
 

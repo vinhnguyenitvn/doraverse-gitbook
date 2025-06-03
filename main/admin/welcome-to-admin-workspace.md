@@ -18,24 +18,28 @@ Admin Workspace in Doraverse is a centralized control panel for administrators t
 [department-management.md](../department-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="../setup-ai-limits.md" %}
-[setup-ai-limits.md](../setup-ai-limits.md)
+{% content-ref url="../portal-setting/setup-ai-limits.md" %}
+[setup-ai-limits.md](../portal-setting/setup-ai-limits.md)
 {% endcontent-ref %}
 
-{% content-ref url="../setup-ai-models.md" %}
-[setup-ai-models.md](../setup-ai-models.md)
+{% content-ref url="../portal-setting/setup-ai-models.md" %}
+[setup-ai-models.md](../portal-setting/setup-ai-models.md)
 {% endcontent-ref %}
 
-{% content-ref url="../branding-setting.md" %}
-[branding-setting.md](../branding-setting.md)
+{% content-ref url="../portal-setting/branding-setting.md" %}
+[branding-setting.md](../portal-setting/branding-setting.md)
 {% endcontent-ref %}
 
 ## How to Access Admin Workspace?
 
 1. Click on **Account** in the bottom-left corner of the screen.
-2. Select **Manage**.&#x20;
+2. Select **Admin**.&#x20;
 
 You’ll now see the **Admin Workspace** with multiple control tabs designed for administration.
+
+<figure><img src="../.gitbook/assets/Admin.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Admin_2.png" alt=""><figcaption></figcaption></figure>
 
 💡 **Note:** The **Admin Workspace** is only visible to users with admin role. For access, please contact your organization’s Doraverse administrator.
 

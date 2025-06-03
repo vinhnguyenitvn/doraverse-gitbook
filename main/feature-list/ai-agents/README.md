@@ -39,16 +39,16 @@ Click the **Create Agent** button located at the top right corner of the screen.
 
 The creation of Agent includes:
 
-* **Basic Setting:** Avatar, Name, Description, Instructions, Provider & Model, Model Parameters
-* **Extensions:** Conversation starters, Knowledge, Code Interpreter API, Capabilities, Tools + Actions
+* **Basic Settings:** Avatar, Name, Description, Instructions, Provider & Model, Model Parameters
+* **More Settings:** Conversation starters, Knowledge, Code Interpreter API, Capabilities, Tools + Actions
 
-### 2.1 Basic Setting: Customize Your AI Agent’s Core Profile
+### 2.1 Basic Settings: Customize Your AI Agent’s Core Profile
 
 When creating your AI Agent, the Basic Settings are the foundation that shape its identity and behavior.&#x20;
 
-<figure><img src="../../.gitbook/assets/Basic Setting_Create Agent.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Basic Settings_Agent.png" alt=""><figcaption></figcaption></figure>
 
-Here’s what you need to know to set up your agent effectively
+Here’s what you need to know to set up your agent effectively:
 
 ### **Avatar**
 
@@ -109,15 +109,17 @@ Check out our [**Model Parameter Guide**](https://doraverse.gitbook.io/docs/feat
 
 **Note:** You need to click **Create Agent** to access more settings.
 
-### 2.2 Extensions: Enhance Your AI Agent’s Power
+### 2.2 More Settings: Enhance Your AI Agent’s Power
 
-Extensions in Doraverse add advanced features and capabilities to your AI agent, empowering it to understand, respond, and perform tasks with greater intelligence and flexibility.
+Add advanced features and capabilities to your AI agent with more settings, empowering it to understand, respond, and perform tasks with greater intelligence and flexibility.
 
-<figure><img src="../../.gitbook/assets/Extensions_Create Agent.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/More Settings_Agent.png" alt=""><figcaption></figcaption></figure>
 
 ### **Conversation Starters**
 
 Set initial prompts that your agent uses to kick off conversations. These starters help shape the purpose right from the first interaction, making it easier for users to engage effectively.
+
+<figure><img src="../../.gitbook/assets/Conversation Starter (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -160,7 +162,7 @@ A Code Interpreter is like a smart assistant that understands and runs computer 
 
 Actions let you extend your AI agent’s capabilities by connecting it to external services through APIs. This enables your agent to interact with real-world data and perform useful tasks, like checking the weather, booking meetings, or retrieving important information. Think of it as teaching your agent a new skill: _**how to communicate seamlessly with other programs!**_
 
-<figure><img src="../../.gitbook/assets/Add Actions.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Action_Agent.png" alt=""><figcaption></figcaption></figure>
 
 To create an action, you’ll need to provide:
 
@@ -174,7 +176,7 @@ Once set up, your agent will be empowered to perform these new actions, making i
 
 Connect your agent to powerful external services like Google search, image generation, calculations, and more. Select only the integrations relevant to your workflow to keep your agent focused and your interface clutter-free.
 
-<figure><img src="../../.gitbook/assets/Intergration.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tool_Agent.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -182,16 +184,16 @@ Connect your agent to powerful external services like Google search, image gener
 
 Use these settings to control who can access and modify your agent:
 
-* Share to all users: This allows everyone in your organization to find and use the agent.
-* Allow other users to edit your agent: This allows teammates collaborate by editing your agent’s configuration. When off, only you can make changes.
+* **Share to all users:** This allows everyone in your organization to find and use the agent.
+* **Allow other users to edit your agent:** This allows teammates collaborate by editing your agent’s configuration. When off, only you can make changes.
 
-<figure><img src="../../.gitbook/assets/Share Agent.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pulish_Agent (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Using Your AI Agent
 
-Find you Agent listed in your AI Agent space, in the right Side Panel or mention it by typing "@" in the chat.
+Mention your Agent to use in chat by typing **"@"** in the chatbar.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Mention Agent.png" alt=""><figcaption></figcaption></figure>
 
 ### 💡**Tips**
 
