@@ -23,6 +23,7 @@
       * [Artifact](feature-list/ai-agents/agents-capabilities/artifact.md)
   * [Prompt Library](feature-list/prompt-library.md)
   * [Create Image](feature-list/create-image.md)
+  * [Notebook](feature-list/notebook.md)
 
 ## Admin Workspace  <a href="#admin" id="admin"></a>
 
