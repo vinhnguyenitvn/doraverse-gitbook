@@ -23,7 +23,8 @@
   * [Project](feature-list/project.md)
   * [Prompt Library](feature-list/prompt-library.md)
   * [Create Image](feature-list/create-image.md)
-  * [Notebook](feature-list/notebook.md)
+  * [NotebookAI](feature-list/notebookai.md)
+  * [Studio](feature-list/studio.md)
 
 ## Admin Workspace  <a href="#admin" id="admin"></a>
 
