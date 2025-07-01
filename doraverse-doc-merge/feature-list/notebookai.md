@@ -25,6 +25,8 @@ With intuitive search and intelligent analysis, NotebookAI transforms static dat
 
 From your Doraverse home screen, simply select Notebook icon from the main menu. This will take you directly to your personal NotebookAI space.
 
+<figure><img src="../.gitbook/assets/Notebook.png" alt=""><figcaption></figcaption></figure>
+
 To create a new notebook, click Create New Notebook.
 
 You’ll be prompted to personalize your notebooks:
@@ -36,6 +38,8 @@ You’ll be prompted to personalize your notebooks:
 
 ## Using Your NotebookAI
 
+<figure><img src="../.gitbook/assets/In Notebook.png" alt=""><figcaption></figcaption></figure>
+
 ### Step 1: Add Your Sources
 
 A “source” refers to any document or piece of content you add to the NotebookAI, such as project reports, documents or transcripts.
@@ -44,9 +48,10 @@ Each notebook can contain up to 50 sources. Supported file types include PDF, te
 
 #### Ways to add sources:
 
-* #### Upload from your computer
-* #### Add from Google Drive. If you haven’t connected your Google Drive yet, see [How to connect your Google Drive to Doraverse](https://help.doraverse.com/feature-list/chat-with-ai-models#how-to-connect-your-google-drive-to-doraverse)
-* **Paste content:** Copy and paste plain text and Markdown.
+* Upload from your computer
+* Add from Google Drive\
+  If you haven’t connected your Google Drive yet, see [H**ow to connect your Google Drive to Doraverse**](https://help.doraverse.com/feature-list/chat-with-ai-models#how-to-connect-your-google-drive-to-doraverse)
+* Paste content: Copy and paste plain text and Markdown.
 
 ### Step 2: Chat with Your Documents
 
@@ -56,6 +61,8 @@ Unlock knowledge with AI-powered Q\&A, following:
 * Pick your preferred AI model for the conversation.
 * Type your question
 * Receive fast, reliable answers grounded in your provided information. Each answer includes clickable citations that link directly to the quoted sources, so you can use them with confidence.
+
+<figure><img src="../.gitbook/assets/Notebook in use.png" alt=""><figcaption></figcaption></figure>
 
 **📌 Important note:**
 
