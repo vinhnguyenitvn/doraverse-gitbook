@@ -55,9 +55,9 @@
 
 ## Privacy & Policy <a href="#policies" id="policies"></a>
 
-* [Terms of Service](policies/terms-of-service.md)
+* [利用規約](policies/term-of-services.md)
 
 ***
 
-* [Privacy Policy](privacy-policy.md)
+* [プライバシーポリシー](privacy-policy.md)
 * [Feedback](feedback.md)
