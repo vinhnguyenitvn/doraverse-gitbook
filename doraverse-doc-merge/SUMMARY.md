@@ -40,6 +40,8 @@
   * [🧳 Branding Setting](portal-setting/branding-setting.md)
   * [🤖 Setup AI Models](portal-setting/setup-ai-models.md)
   * [🚧 Setup AI Limits](portal-setting/setup-ai-limits.md)
+* [💳 Subscription](subscription.md)
+* [🧾 Billings & Invoice](billings-and-invoice.md)
 
 ## Help Center <a href="#help" id="help"></a>
 
@@ -52,6 +54,8 @@
     * [Choose AI Model Based on Your Task](help/faqs/chat-with-ai-models/choose-ai-model-based-on-your-task.md)
     * [Choose AI Model Based on Their Capabilities](help/faqs/chat-with-ai-models/choose-ai-model-based-on-their-capabilities.md)
   * [AI Agent](help/faqs/ai-agent.md)
+  * [Subscription](help/faqs/subscription.md)
+  * [Billings & Invoice](help/faqs/billings-and-invoice.md)
 * [Troubleshooting](help/troubleshooting.md)
 
 ## Privacy & Policy <a href="#policies" id="policies"></a>
