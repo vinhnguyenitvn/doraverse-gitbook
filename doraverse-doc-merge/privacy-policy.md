@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Privacy Policy
 
 Doraverse ("we," "us," or "our") is committed to protecting your privacy. This policy explains how we collect, use, and protect data when you use our platform and related services (the "Services").
