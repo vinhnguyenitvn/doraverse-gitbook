@@ -39,6 +39,8 @@
   * [🧳 Branding Setting](portal-setting/branding-setting.md)
   * [🤖 Setup AI Models](portal-setting/setup-ai-models.md)
   * [🚧 Setup AI Limits](portal-setting/setup-ai-limits.md)
+* [💳 Subscription](subscription.md)
+* [🧾 Billings & Invoice](billings-and-invoice.md)
 
 ## Help Center <a href="#help" id="help"></a>
 
