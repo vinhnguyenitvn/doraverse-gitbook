@@ -90,11 +90,11 @@ Credits are always consumed in this order: **Free credit → Monthly credit → 
 
 ***
 
-## Try Before You Subscribe — 14-Day Free Trial with Up To $20 Free Credit
+## Try Before You Subscribe — 14-Day Free Trial with $10 Free Credit
 
 ### How Doraverse trials work:
 
-* **All new workspaces will automatically receive a 14-day trial and up to $20 in free credits** to explore Doraverse features. Workspaces created before July 1, 2025, will begin their trial on that date but will not receive the free credits.
+* **All new workspaces will automatically receive a 14-day trial and $10 in free credits** to explore Doraverse features. Workspaces created before July 1, 2025, will begin their trial on that date but will not receive the free credits.
 * During the trial, workspaces enjoy full access to all Doraverse capabilities — with **no limitations and no credit card needed**.
 * The trial ends immediately if the admin subscribes before the trial period expires, or after the full 14 days if no subscription is made.
 * When the admin successfully subscribes, the subscription charge, seat activation, and monthly credits will all be triggered immediately.
@@ -112,7 +112,7 @@ This means the first paid billing period runs from August 15 to September 15, no
 
 </details>
 
-* **Free credits** provided during the 14-day trial are **valid for 30 days** from the day the workspace is created.
+* **Free credits** provided during the 14-day trial are **valid for 14 days** from the day the workspace is created.
 
 ***
 
