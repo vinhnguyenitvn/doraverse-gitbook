@@ -29,20 +29,20 @@
 ## Admin Workspace  <a href="#admin" id="admin"></a>
 
 * [🚪 Welcome to Admin Workspace](admin/welcome-to-admin-workspace.md)
-* [📋 Dashboard](admin/dashboard/README.md)
-  * [Overview](admin/dashboard/overview.md)
-  * [User Activity Report](admin/dashboard/user-activity-report.md)
-  * [Model Usage Report](admin/dashboard/model-usage-report.md)
+* [📋 Reporting](admin/reporting/README.md)
+  * [Overview](admin/reporting/overview.md)
+  * [User Activity Report](admin/reporting/user-activity-report.md)
+  * [Model Usage Report](admin/reporting/model-usage-report.md)
 
 ***
 
 * [👤 Member Management](member-management.md)
-* [🔀 Portal Setting](portal-setting/README.md)
-  * [🧳 Branding Setting](portal-setting/branding-setting.md)
-  * [🤖 Setup AI Models](portal-setting/setup-ai-models.md)
-  * [🚧 Setup AI Limits](portal-setting/setup-ai-limits.md)
+* [🧾 Billings](billings.md)
+* [⚠️ Usage Limits](usage-limits.md)
+* [🔀 Settings](settings/README.md)
+  * [🧳 Workspace Setting](settings/workspace-setting.md)
+  * [🤖 Chat Settings](settings/chat-settings.md)
 * [💳 Subscription](subscription.md)
-* [🧾 Billings & Invoice](billings-and-invoice.md)
 
 ## Help Center <a href="#help" id="help"></a>
 

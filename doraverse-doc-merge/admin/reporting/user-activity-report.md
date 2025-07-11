@@ -2,6 +2,8 @@
 
 Use this report to monitor daily activity, identify top users, and optimize resource allocation.
 
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 ## How to Use the User Activity Report
 
 1. **Select Time Range**\

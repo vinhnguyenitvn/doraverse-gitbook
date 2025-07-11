@@ -6,28 +6,24 @@ Admin Workspace in Doraverse is a centralized control panel for administrators t
 
 ## What's in Admin Workspace?
 
-{% content-ref url="dashboard/" %}
-[dashboard](dashboard/)
+{% content-ref url="reporting/" %}
+[reporting](reporting/)
 {% endcontent-ref %}
 
 {% content-ref url="../member-management.md" %}
 [member-management.md](../member-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../billings.md" %}
+[billings.md](../billings.md)
 {% endcontent-ref %}
 
-{% content-ref url="../portal-setting/setup-ai-limits.md" %}
-[setup-ai-limits.md](../portal-setting/setup-ai-limits.md)
+{% content-ref url="../usage-limits.md" %}
+[usage-limits.md](../usage-limits.md)
 {% endcontent-ref %}
 
-{% content-ref url="../portal-setting/setup-ai-models.md" %}
-[setup-ai-models.md](../portal-setting/setup-ai-models.md)
-{% endcontent-ref %}
-
-{% content-ref url="../portal-setting/branding-setting.md" %}
-[branding-setting.md](../portal-setting/branding-setting.md)
+{% content-ref url="../settings/" %}
+[settings](../settings/)
 {% endcontent-ref %}
 
 ## How to Access Admin Workspace?
@@ -38,8 +34,6 @@ Admin Workspace in Doraverse is a centralized control panel for administrators t
 You’ll now see the **Admin Workspace** with multiple control tabs designed for administration.
 
 <figure><img src="../.gitbook/assets/Admin.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Admin_2.png" alt=""><figcaption></figcaption></figure>
 
 💡 **Note:** The **Admin Workspace** is only visible to users with admin role. For access, please contact your organization’s Doraverse administrator.
 

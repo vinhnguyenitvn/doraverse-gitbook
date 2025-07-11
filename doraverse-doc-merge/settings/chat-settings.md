@@ -2,7 +2,9 @@
 description: Assign specific AI models that best suit each department's needs.
 ---
 
-# 🤖 Setup AI Models
+# 🤖 Chat Settings
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 1. From the main screen, go to **Account → Manage → Setup AI Model**.
 2. Click **Edit** to enable editing mode.

@@ -36,7 +36,7 @@ Search by **prompt name** to quickly find what you need.
 * **Description** _(Optional)_&#x20;
 * **Command** for quick access _(Optional)_&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🗂️ Categorize, Share and Delete Prompt&#x20;
 

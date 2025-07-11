@@ -8,6 +8,8 @@ description: >-
 
 Use this report to monitor performance, optimize spending, and guide model selection.
 
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 ## **How to Use Report by Models:**
 
 1. **Filter by Time, Provider, and Model**\

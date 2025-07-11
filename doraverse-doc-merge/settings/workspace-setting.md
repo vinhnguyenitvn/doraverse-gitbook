@@ -4,17 +4,17 @@ description: >-
   distinctive workspace aligned with brand identity.
 ---
 
-# 🧳 Branding Setting
+# 🧳 Workspace Setting
 
-[Brand Name](branding-setting.md#brand-name)
+[Brand Name](workspace-setting.md#brand-name)
 
-[Tagline](branding-setting.md#tagline)
+[Tagline](workspace-setting.md#tagline)
 
-[Description](branding-setting.md#description)
+[Description](workspace-setting.md#description)
 
-[Logo](branding-setting.md#logo-url)
+[Logo](workspace-setting.md#logo-url)
 
-[Poster ](branding-setting.md#social-media-poster-url)
+[Poster ](workspace-setting.md#social-media-poster-url)
 
 ## Brand Name
 

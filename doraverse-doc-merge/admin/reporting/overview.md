@@ -6,6 +6,8 @@ description: >-
 
 # Overview
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## How to Use the Overview Dashboard
 
 1. **Select Time Range**
