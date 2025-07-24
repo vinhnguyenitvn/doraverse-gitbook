@@ -84,10 +84,6 @@ Press or type “/” to quickly insert prompts by command or name.\
 
 Press or type “@” to quickly mention an agent or preset and switch to it instantly.
 
-### 🔳 Compare Results (Square with +)&#x20;
-
-Add another model and compare results side-by-side. This is useful for evaluating and selecting the best answer.
-
 ### 🎙 **Voice Input / Speech-to-Text**
 
 Tap the microphone to dictate your message using voice input. The AI will transcribe your speech into text.
