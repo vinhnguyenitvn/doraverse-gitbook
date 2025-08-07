@@ -44,7 +44,7 @@ In the example:&#x20;
 
 Click **Add Domain**. Doraverse will show you the exact DNS record you’ll need to add to your domain provider.
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subdomain.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Set Up a CNAME Record with Your Domain Provider
 
@@ -65,7 +65,7 @@ Return to the Domain setting space in Doraverse.&#x20;
 Click **Check.**\
 If everything is set up correctly, your workspace is now live at your custom address.
 
-
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 23.27.35.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
