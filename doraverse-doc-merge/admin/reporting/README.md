@@ -8,7 +8,7 @@ Reporting tab is your central hub for monitoring and managing AI activities acro
 
 Get a real-time summary of your organization’s AI usage and spending for any selected period.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [**User Activity Report**](./#user-activity-report)
 

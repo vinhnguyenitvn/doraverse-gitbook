@@ -6,15 +6,15 @@ description: >-
 
 # 🧳 Workspace Setting
 
-[Brand Name](workspace-setting.md#brand-name)
+[Brand Name](./#brand-name)
 
-[Tagline](workspace-setting.md#tagline)
+[Tagline](./#tagline)
 
-[Description](workspace-setting.md#description)
+[Description](./#description)
 
-[Logo](workspace-setting.md#logo-url)
+[Logo](./#logo-url)
 
-[Poster ](workspace-setting.md#social-media-poster-url)
+[Poster ](./#social-media-poster-url)
 
 ## Brand Name
 

@@ -40,7 +40,10 @@
 * [🧾 Billings](billings.md)
 * [⚠️ Usage Limits](usage-limits.md)
 * [🔀 Settings](settings/README.md)
-  * [🧳 Workspace Setting](settings/workspace-setting.md)
+  * [🧳 Workspace Setting](settings/workspace-setting/README.md)
+    * [Branding](settings/workspace-setting/branding.md)
+    * [Department](settings/workspace-setting/department.md)
+    * [Domain](settings/workspace-setting/domain.md)
   * [🤖 Chat Settings](settings/chat-settings.md)
 * [💳 Subscription](subscription.md)
 
