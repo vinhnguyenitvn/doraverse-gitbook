@@ -60,12 +60,14 @@ Save your changes. DNS records might take sometime to update.
 
 ### Step 4: Check Your Connection
 
-Return to the Domain setting space in Doraverse.&#x20;
-
-Click **Check.**\
+Return to the Domain setting space in Doraverse. Click **Check.**\
 If everything is set up correctly, your workspace is now live at your custom address.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 23.27.35.png" alt=""><figcaption></figcaption></figure>
+
+You can always change the custom domain later. Just repeat the setup steps carefully to update your settings.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 23.33.58.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
