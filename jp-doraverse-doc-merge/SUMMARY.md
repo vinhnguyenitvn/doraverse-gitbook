@@ -35,10 +35,13 @@
 ***
 
 * [👤 Member Management](member-management.md)
-* [🔀 Portal Setting](portal-setting/README.md)
-  * [🧳 Branding Setting](portal-setting/branding-setting.md)
-  * [🤖 Setup AI Models](portal-setting/setup-ai-models.md)
-  * [🚧 Setup AI Limits](portal-setting/setup-ai-limits.md)
+* [🔀 Setting](setting/README.md)
+  * [🧳 Branding Setting](setting/branding-setting/README.md)
+    * [Branding](setting/branding-setting/branding.md)
+    * [Department](setting/branding-setting/department.md)
+    * [Domain](setting/branding-setting/domain.md)
+  * [🤖 Setup AI Models](setting/setup-ai-models.md)
+  * [🚧 Setup AI Limits](setting/setup-ai-limits.md)
 * [💳 Subscription](subscription.md)
 * [🧾 Billings & Invoice](billings-and-invoice.md)
 

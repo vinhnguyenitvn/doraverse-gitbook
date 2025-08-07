@@ -1,20 +1,14 @@
----
-description: >-
-  Customizing your brand settings in Doraverse to ensures a professional,
-  distinctive workspace aligned with brand identity.
----
+# Branding
 
-# 🧳 Branding Setting
+[Brand Name](branding.md#brand-name)
 
-[Brand Name](branding-setting.md#brand-name)
+[Tagline](branding.md#tagline)
 
-[Tagline](branding-setting.md#tagline)
+[Description](branding.md#description)
 
-[Description](branding-setting.md#description)
+[Logo](branding.md#logo-url)
 
-[Logo](branding-setting.md#logo-url)
-
-[Poster ](branding-setting.md#social-media-poster-url)
+[Poster ](branding.md#social-media-poster-url)
 
 ## Brand Name
 

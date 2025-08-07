@@ -1,4 +1,4 @@
-# 🔀 Portal Setting
+# 🔀 Setting
 
 [What is Portal Setting?](./#what-is-portal-setting)
 
@@ -14,6 +14,7 @@ Portal Settings allow administrators to customize and manage core configurations
 
 * Upload your company logo, brand name, and tagline.
 * Adjust UI themes to match your corporate identity.
+* Set up you custom domain&#x20;
 
 ### Setup AI Models
 
