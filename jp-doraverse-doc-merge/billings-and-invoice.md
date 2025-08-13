@@ -1,5 +1,6 @@
 ---
 description: Manage your workspace's billing seamlessly in one central hub.
+hidden: true
 ---
 
 # 🧾 Billings & Invoice
