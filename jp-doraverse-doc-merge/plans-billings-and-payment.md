@@ -22,7 +22,7 @@ description: >-
 
 With Doraverse, you get a simple, scalable hybrid pricing model—flat-fee base subscription, per-seat add-ons, and flexible credit top-ups.
 
-<table><thead><tr><th width="159.73687744140625" valign="middle">Plan</th><th>Individual</th><th>Business</th></tr></thead><tbody><tr><td valign="middle">Default Monthly Credits </td><td>5,000 Credits</td><td>50,000 Credits (entire )</td></tr><tr><td valign="middle">Seats Included</td><td>1</td><td>5</td></tr><tr><td valign="middle">Add-On Seats</td><td>Not available</td><td>Available at an additional cost per seat</td></tr><tr><td valign="middle">Best For</td><td>Solo users, personal projects</td><td>Small to large teams, business organizations</td></tr></tbody></table>
+<table><thead><tr><th width="159.73687744140625" valign="middle">Plan</th><th>Individual</th><th>Business</th></tr></thead><tbody><tr><td valign="middle">Default Monthly Credits </td><td>5,000 Credits</td><td>50,000 Credits (entire workspace )</td></tr><tr><td valign="middle">Default Seats Included</td><td>1</td><td>5</td></tr><tr><td valign="middle">Add-On Seats</td><td>Not available</td><td>Available at an additional cost per seat</td></tr><tr><td valign="middle">Best For</td><td>Solo users, personal projects</td><td>Small to large teams, business organizations</td></tr></tbody></table>
 
 {% hint style="info" %}
 Regional Pricing: Pricing is displayed in local currency at checkout. Applicable taxes will be calculated.
