@@ -1,25 +1,29 @@
 ---
-description: From simple ideas to standout visuals—skip the design tool headaches.
-icon: photo-film
+description: >-
+  From simple ideas to stunning images, standout video and ear-catching audio —
+  skip the design tool headaches.
+icon: photo-film-music
 ---
 
 # Studio
 
 [What is Doraverse Studio?](studio.md#what-is-doraverse-studio)
 
-[Why Go with Doraverse Studio?](studio.md#why-go-with-doraverse-studio)
+[Image Generation with Studio](studio.md#image-generation-with-studio)
 
-[Start Creating in Studio](studio.md#start-creating-in-studio)
+[Video Generation with Studio (Coming soon)](studio.md#video-generation-with-studio-coming-soon)
+
+[Audio Generation with Studio (Coming soon)](studio.md#audio-generation-with-studio-coming-soon)
 
 [Manage Your Gallery](studio.md#manage-image-in-your-gallery)
 
 ## What is Doraverse Studio?
 
-Doraverse Studio is your all-in-one creative playground, designed for teams to bring raw ideas to life—whether you’re crafting compelling images, dynamic videos, impactful slides, or intuitive mindmaps.&#x20;
+Doraverse Studio is your all-in-one creative playground, designed for teams to bring raw ideas to life — whether you’re crafting compelling images, dynamic videos, impactful slides, or intuitive mindmaps.&#x20;
 
-With a suite of powerful Generative AI tools, Studio transforms your concepts into impressive visual and multimedia assets, making creativity accessible and efficient at every stage—no more messy tabs or scattered tools.
+With a suite of powerful Generative AI tools, Studio transforms your concepts into impressive visual and multimedia assets, making creativity accessible and efficient at every stage — no more messy tabs or scattered tools.
 
-## Why Go with Doraverse Studio?
+### Why Go with Doraverse Studio?
 
 <table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Collab with World’s Leading Generative Models</strong></td><td>Put top-tier AI to work for you: GPT-Image-1, Gemini-Imagen-4, Flux Kontext Pro/Pro Max. </td></tr><tr><td><strong>10x Your Creative Workflow</strong></td><td>Deliver standout creations at lightning speed with powerful automations: auto-prompt, auto-style, auto-size.</td></tr><tr><td><strong>Less Manual Work, More Brilliant Results</strong></td><td>Generate in a chat interface that remembers your context, syncing every creation to your ideas.</td></tr></tbody></table>
 
@@ -27,7 +31,7 @@ With a suite of powerful Generative AI tools, Studio transforms your concepts in
 
 ***
 
-## Start Creating in Studio
+## Image Generation with Studio
 
 ### Step 1: Access Studio&#x20;
 
@@ -88,6 +92,14 @@ Click on the image to easily view its detailed information. You’ll see attachm
 <figure><img src="../.gitbook/assets/Image Info.png" alt=""><figcaption></figcaption></figure>
 
 **💡 Tips**: Pay special attention to the last line. This is the AI prompt used to generate the image. It’s a helpful reference if you want to recreate, tweak, or reuse the prompt in the future.
+
+***
+
+## Video Generation with Studio (Coming soon)
+
+***
+
+## Audio Generation with Studio (Coming soon)
 
 ***
 

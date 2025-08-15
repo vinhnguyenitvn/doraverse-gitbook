@@ -15,6 +15,7 @@
 * [✅ Feature List](feature-list/README.md)
   * [Available AI Models](feature-list/available-ai-models.md)
   * [Chat with AI Models](feature-list/chat-with-ai-models.md)
+  * [Tools](feature-list/tools.md)
   * [AI Agents](feature-list/ai-agents/README.md)
     * [AI Model Parameter](feature-list/ai-agents/ai-model-parameter.md)
     * [Agent's Capabilities](feature-list/ai-agents/agents-capabilities/README.md)
@@ -23,6 +24,7 @@
   * [Project](feature-list/project.md)
   * [Prompt Library](feature-list/prompt-library.md)
   * [Create Image](feature-list/create-image.md)
+  * [Deep Research](feature-list/deep-research.md)
   * [NotebookAI](feature-list/notebookai.md)
   * [Studio](feature-list/studio.md)
 

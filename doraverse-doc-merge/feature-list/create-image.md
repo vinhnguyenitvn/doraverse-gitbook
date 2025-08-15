@@ -1,5 +1,6 @@
 ---
 description: Bring concepts to life faster than ever.
+hidden: true
 icon: message-image
 ---
 
