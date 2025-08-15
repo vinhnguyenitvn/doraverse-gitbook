@@ -42,7 +42,7 @@
     * [Domain](setting/branding-setting/domain.md)
   * [🤖 Setup AI Models](setting/setup-ai-models.md)
   * [🚧 Setup AI Limits](setting/setup-ai-limits.md)
-* [💳 Plans, Billings & Payment](plans-billings-and-payment.md)
+* [💳 Plans, Billing & Payment](plans-billing-and-payment.md)
 * [🧾 Billings & Invoice](billings-and-invoice.md)
 
 ## Help Center <a href="#help" id="help"></a>
@@ -65,4 +65,5 @@
 ***
 
 * [プライバシーポリシー](privacy-policy.md)
+* [Contact](contact.md)
 * [Feedback](feedback.md)
