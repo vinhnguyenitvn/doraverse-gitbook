@@ -45,7 +45,7 @@
     * [Department](settings/workspace-setting/department.md)
     * [Domain](settings/workspace-setting/domain.md)
   * [🤖 Chat Settings](settings/chat-settings.md)
-* [💳 Subscription](subscription.md)
+* [💳 Plans, Billing & Payment](plans-billing-and-payment.md)
 
 ## Help Center <a href="#help" id="help"></a>
 
@@ -70,3 +70,4 @@
 
 * [Privacy Policy](privacy-policy.md)
 * [Feedback](feedback.md)
+* [Contact](contact.md)

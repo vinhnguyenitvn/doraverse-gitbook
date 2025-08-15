@@ -1,8 +1,9 @@
 ---
 description: Manage your workspace's billing seamlessly in one central hub.
+hidden: true
 ---
 
-# 🧾 Billings & Invoice
+# 🧾 Billings
 
 Our billing process is designed for flexibility, ensuring charges reflect both the subscription and the workspace’s actual usage:
 
