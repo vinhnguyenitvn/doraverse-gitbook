@@ -80,51 +80,9 @@ Once access is granted, you’ll be able to browse and pick files directly from 
 Press or type “/” to quickly insert prompts by command or name.\
 **To learn more, see our** [**Prompt Library Feature**](https://doraverse.gitbook.io/docs/jp/feature-list/prompt-library)**.**
 
-### 🌀 Mention (@)
-
-Press or type “@” to quickly mention an agent or preset and switch to it instantly.
-
-### 🎙 **Voice Input / Speech-to-Text**
-
-Tap the microphone to dictate your message using voice input. The AI will transcribe your speech into text.
-
 ### ⬆️ Send **Message**
 
 Press the arrow button to send your message and receive a response from the AI.
-
-***
-
-## Built-in Tools
-
-Located conveniently in the chat bar, Doraverse offers powerful built-in tools that extend AI model capabilities beyond just text-based conversations. These tools empower users to achieve more accurate, timely, and diverse results, transforming interactions into dynamic and productive experiences.
-
-Some common tools in Doraverse include:
-
-### 🌐 **Search Tool**
-
-Look up current information from the web—useful if you want answers that need up-to-date facts, like news, weather, or recent events.
-
-Responses include inline citations with clickable source links for easy verification.
-
-### 📚 **Deep Research Tool**
-
-An agent that uses reasoning to synthesize large amounts of online information and complete multi-step research tasks for you.
-
-Responses include inline citations with clickable source links for easy verification.
-
-### ✒ **Canvas**
-
-Open an interactive space to draw, sketch diagrams, or visualize your ideas.
-
-### 🖼 **Create Images**
-
-Turn simple, natural-language prompts into stunning visuals directly within your chat, powered by **gpt-image-1**.
-
-See details in [**Create Images**](https://doraverse.gitbook.io/docs/jp/feature-list/create-image)**.**
-
-### 💻 **Code Interpreter**
-
-Run code or perform data analysis within your chat—ideal for technical and data-driven tasks.
 
 ***
 
