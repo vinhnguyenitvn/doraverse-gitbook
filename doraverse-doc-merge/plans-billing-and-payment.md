@@ -8,15 +8,17 @@ description: >-
 
 [Plan Overview](plans-billing-and-payment.md#plan-overview)
 
+[Free Trial](plans-billing-and-payment.md#free-trial)
+
 [Seats & Proration (Business Plan)](plans-billing-and-payment.md#seats-and-proration-business-plan)
 
-[Types of Credit](plans-billing-and-payment.md#credits-management)
+[Types of Credit](plans-billing-and-payment.md#types-of-credit)
 
-[Change Plan](plans-billing-and-payment.md#change-plans)
+[Change Plans](plans-billing-and-payment.md#change-plans)
 
 [Cancel Subscription](plans-billing-and-payment.md#cancel-subscription)
 
-[Biliing & Invoices](plans-billing-and-payment.md#biliings-and-invoice)
+[Billing & Invoices](plans-billing-and-payment.md#biliings-and-invoice)
 
 ## Plan Overview
 
@@ -25,23 +27,29 @@ We offer plan options that fit how you work and who you work with:
 * **Individuals (Starter, Pro)** — for one person; best for solo use and personal work.&#x20;
 * **Business** — best for teams and businesses (multi-seat included).
 
-Every base subscription includes a default number of seats and monthly credit.
+Every subscription includes a default number of seats and monthly credits.
 
 For the latest plan options, inclusions, and pricing, check our [**Pricing page**](https://doraverse.com/pricing).
 
 {% hint style="info" %}
-Regional Pricing: Pricing is displayed in local currency at checkout. Applicable taxes will be calculated.
+Regional pricing & taxes : Prices are shown in your local currency at checkout. Applicable taxes (e.g., VAT/GST) are calculated at payment.
 {% endhint %}
 
 ***
 
-### Trial with Free Credit Included
+## Free Trial
 
-For 14 days, your workspace will have full access to all Doraverse features and services — with no limitations and no credit card required.
+Try Doraverse free for **14 days** — no credit card required.
 
-The trial period can end in two ways:
+### **What’s included during the trial**
 
-* If you subscribe to a plan during the trial, your billing cycle will start after the trial ends (not on the subscription date).
+* Full **Business plan** feature set.
+* The Business plan’s **default seat count** so you can invite teammates.
+* **Free credits** to explore all AI features.
+
+### How the trial works
+
+* If you subscribe during the trial, your **billing cycle starts after the trial ends**.
 
 <details>
 
@@ -55,29 +63,20 @@ This means the first paid billing period runs from August 15 to September 15, no
 
 </details>
 
-* If no subscription is made, the trial will end automatically after 14 days. Trial credits expire at the end of the trial period.
+* If you don’t subscribe, the trial ends automatically after 14 days. Trial credits expire at the end of the trial.
 
 ***
 
 ## Seats & Proration (Business Plan)
 
-Doraverse offers a **flexible seat add-on** that grows with your team.
+### **Included seats**
+
+The Business plan includes **5 seats** by default. You can add more anytime as your team grow.
 
 ### Adding Seats
 
-The Business Plan includes **5 seats** by default. You can add extra seats anytime. Each extra seat has an **additional per-seat cost** (varies by region; see **Billing** before confirming).
-
-#### **Credits from extra seats**
-
-* Each extra seat adds **Additional Seat Credits** to your **Workspace monthly credits**.
-* These credits are **granted in full immediately** after payment — even if you add seats mid-cycle.
-
-> **Workspace monthly credits** = Default monthly credits + Σ(Additional Seat Credits)
-
-#### **Charges & proration for added seats**
-
-* When you add seats, you’re **charged immediately**.
-* If you add seats **mid-cycle**, the charge is **prorated** for the **days remaining** in the current billing cycle.
+* Additional seats are **charged immediately**.
+* If added mid-cycle, the seat price is **prorated** for the **days remaining** in the current billing cycle.
 
 <details>
 
@@ -98,18 +97,20 @@ On **Jul 10**, you added **3 seats** (days remaining: **21/30**).
 
 </details>
 
-### Remove Seats
+* Each extra seat adds **Additional Seat Credits** to your monthly total. Credits are granted in full after payment—even mid-cycle.
 
-* Removing a member does not cancel the seat. The seat remains active (held) until the next billing cycle and is not refunded.
-* You can assign the held seat to another member anytime at no extra cost during the current cycle.
+> **Monthly credits = Default monthly credits + Σ(Additional Seat Credits)**
+
+### **Removing members vs. reducing seats**
+
+* Removing a member **does not reduce** your paid seat count. The seat remains active (held) until the next billing cycle. You can assign the held seat to another member anytime at no extra cost during the current cycle.
+* To **reduce seats**, update seat quantity in **Billing.** The reduction takes effect at the next renewal. No refunds for the current cycle.
 
 ***
 
 ## Types of Credit
 
-Doraverse uses a flexible credit system.&#x20;
-
-Credits are always consumed in this order: **Free credit → Monthly credit → Prepaid credit.**
+Doraverse uses three credit types. They are used in this order: **Free credit → Monthly credit → Prepaid credit**.
 
 ### **Monthly Credit**
 
@@ -127,17 +128,23 @@ Credits are always consumed in this order: **Free credit → Monthly credit → 
 * Earned via Doraverse's promotions: trials, referrals or exclusive campaigns.
 * Expiration set by each program.
 
+### When credits run out
+
+If your workspace runs out of credits, AI features become unavailable. Access resumes when your monthly credits reset at the start of the next billing cycle **or** when you top up with Prepaid credits.
+
+Don’t worry — we’ll email you when your credits are running low so you have time to top up before anything pauses.
+
 ***
 
 ## Change Plans
 
-Admins can switch between plans at any time. Before confirming, review how the change affects members, seats, and billing.
+Admins can switch plans any time. Before confirming, review how the change affects members, seats, and billing.
 
 ### **Moving to a Business/Team plan**
 
 * **Seats & members:** Multi-seat support turns on; you can invite people anytime.
-* **Admin access:** Unlock full Admin Settings — **Reporting** (user activity, model usage), **Member Management**, and **Workspace Settings** (branding, departments, custom domain).
-* **Billing:** Charge applies immediately. **Mid-cycle changes are prorated** for the remaining days; any unused amount is credited to your account and applied to future invoices.
+* **Admin access:** Unlock full Admin Settings — Reporting (user activity & model usage), Member Management, and Workspace Settings (branding, departments, custom domain).
+* **Billing:** Charge applies immediately. **Mid-cycle changes are prorated** for the remaining days; any unused amount is credited to your account balance and applied to your **next invoice.**
 * **Credits:** Monthly credits reset to the new plan. Prepaid/free credits remain.
 
 ### **Moving to an Individuals plan**
@@ -150,12 +157,12 @@ Admins can switch between plans at any time. Before confirming, review how the c
 * **Credits:** Monthly credits reset to the new plan. Prepaid/free credits remain.
 
 {% hint style="info" %}
-**Important:** Changes to these admin settings are **irreversible** and **won’t be restored automatically** if you switch back later.
+**Important:** These changes are **not auto-restored** if you switch back later.
 {% endhint %}
 
 ***
 
-## Cancel subscription
+## Cancel Subscription
 
 Cancellation will take effect at the end of your current billing cycle. Until then, your account will remain fully accessible, including all features.
 
@@ -170,18 +177,24 @@ You can **resume** any time in **Billing**. Access to all workspace features is 
 
 ## Billing & Invoices
 
-### Charges
+### **Payment processing**
 
-* All billing is processed by **Stripe**. Doraverse **does not store** sensitive payment information. You can manage everything in **Account → Admin → Billing**.
+All payments are handled securely by **Stripe**. Doraverse does not store sensitive card data. You can manage everything in **Account → Admin → Billing**.
 
-**When you’re charged:**
+### **When you’re charged:**
 
-* **Subscription start/renewal:** Charged on your **billing day** each month.
-* **Change plan:** Charged **immediately** after payment.&#x20;
-* **Add more seats:** Charged immediately. If added mid-cycle, the charge is prorated for the days remaining in the current cycle.
-* **Prepaid credit top-ups:** Charged at purchase.
+* **Subscription start/renewal:** Charged on your **billing day**.&#x20;
+* **Change plan:** Charged immediately upon confirmation (prorated if mid-cycle); any unused amount is credited to your account balance and applied to your next invoice.
+* **Add more seats:** Charged **immediately** (**prorated** if mid-cycle).
+* **Top-up prepaid credit:** Charged at purchase.
 
-**Regional pricing & taxes:** Shown at checkout in your local currency. Local taxes may apply.
+**Regional pricing & taxes:** Prices shown in your **local currency** at checkout; **applicable taxes** are calculated and **itemized on your invoice**.
+
+### Failed payments
+
+If a payment fails, we’ll retry automatically and notify you by email. Please update your payment method in **Billing** to avoid interruptions.&#x20;
+
+If payment is still unsuccessful after the retry window, your workspace will be **paused** until payment is completed. Access is restored immediately once the payment goes through.
 
 ### Manage Billing & Invoices
 
