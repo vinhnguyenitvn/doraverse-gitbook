@@ -43,13 +43,13 @@ Try Doraverse free for **14 days** — no credit card required.
 
 ### **What’s included during the trial**
 
-* Full **Business plan** feature set.
-* The Business plan’s **default seat count** so you can invite teammates.
-* **Free credits** to explore all AI features.
+* Full Business plan feature set.
+* The Business plan’s default seat count so you can invite teammates.
+* Free credits to explore all AI features.
 
 ### How the trial works
 
-* If you subscribe during the trial, your **billing cycle starts after the trial ends**.
+* If you subscribe during the trial, your billing cycle starts after the trial ends.
 
 <details>
 
@@ -71,12 +71,12 @@ This means the first paid billing period runs from August 15 to September 15, no
 
 ### **Included seats**
 
-The Business plan includes **5 seats** by default. You can add more anytime as your team grow.
+The Business plan includes 5 seats by default. You can add more anytime as your team grow.
 
 ### Adding Seats
 
-* Additional seats are **charged immediately**.
-* If added mid-cycle, the seat price is **prorated** for the **days remaining** in the current billing cycle.
+* Additional seats are charged immediately.
+* If added mid-cycle, the seat price is prorated for the days remaining in the current billing cycle.
 
 <details>
 
@@ -103,8 +103,8 @@ On **Jul 10**, you added **3 seats** (days remaining: **21/30**).
 
 ### **Removing members vs. reducing seats**
 
-* Removing a member **does not reduce** your paid seat count. The seat remains active (held) until the next billing cycle. You can assign the held seat to another member anytime at no extra cost during the current cycle.
-* To **reduce seats**, update seat quantity in **Billing.** The reduction takes effect at the next renewal. No refunds for the current cycle.
+* Removing a member does not reduce your paid seat count. The seat remains active (held) until the next billing cycle. You can assign the held seat to another member anytime at no extra cost during the current cycle.
+* To reduce seats, update seat quantity in **Billing**. The reduction takes effect at the next renewal. No refunds for the current cycle.
 
 ***
 
@@ -144,16 +144,16 @@ Admins can switch plans any time. Before confirming, review how the change affec
 
 * **Seats & members:** Multi-seat support turns on; you can invite people anytime.
 * **Admin access:** Unlock full Admin Settings — Reporting (user activity & model usage), Member Management, and Workspace Settings (branding, departments, custom domain).
-* **Billing:** Charge applies immediately. **Mid-cycle changes are prorated** for the remaining days; any unused amount is credited to your account balance and applied to your **next invoice.**
+* **Billing:** Charge applies immediately. Mid-cycle changes are prorated for the remaining days; any unused amount is credited to your account balance and applied to your next invoice.
 * **Credits:** Monthly credits reset to the new plan. Prepaid/free credits remain.
 
 ### **Moving to an Individuals plan**
 
-* **Seats & members:** All non-owner members are **removed** and **lose access**.
+* **Seats & members:** All non-owner members are removed and lose access.
 * **Admin access:**&#x20;
-  * Access to **Reporting** (user activity, model usage) is **removed**.
-  * Budget limitations and related settings are **deleted**.
-* **Billing:** Effective **immediately**; charges **prorated**
+  * Access to Reporting (user activity, model usage) is removed.
+  * Budget limitations and related settings are deleted.
+* **Billing:** Charge applies immediately. Mid-cycle changes are prorated for the remaining days; any unused amount is credited to your account balance and applied to your next invoice.
 * **Credits:** Monthly credits reset to the new plan. Prepaid/free credits remain.
 
 {% hint style="info" %}
@@ -171,7 +171,7 @@ You’ll still be able to log in to your workspace, but all features will remain
 
 ### Resume subscription
 
-You can **resume** any time in **Billing**. Access to all workspace features is **restored immediately** once payment is processed.
+You can resume any time in **Billing**. Access to all workspace features is restored immediately once payment is processed.
 
 ***
 
@@ -183,12 +183,12 @@ All payments are handled securely by **Stripe**. Doraverse does not store sensit
 
 ### **When you’re charged:**
 
-* **Subscription start/renewal:** Charged on your **billing day**.&#x20;
+* **Subscription start/renewal:** Charged on your billing day.&#x20;
 * **Change plan:** Charged immediately upon confirmation (prorated if mid-cycle); any unused amount is credited to your account balance and applied to your next invoice.
-* **Add more seats:** Charged **immediately** (**prorated** if mid-cycle).
+* **Add more seats:** Charged immediately (prorated if mid-cycle).
 * **Top-up prepaid credit:** Charged at purchase.
 
-**Regional pricing & taxes:** Prices shown in your **local currency** at checkout; **applicable taxes** are calculated and **itemized on your invoice**.
+**Regional pricing & taxes:** Prices shown in your local currency at checkout; applicable taxes are calculated and itemized on your invoice.
 
 ### Failed payments
 
@@ -198,10 +198,10 @@ If payment is still unsuccessful after the retry window, your workspace will be 
 
 ### Manage Billing & Invoices
 
-Go to **Account → Admin → Billing → Overview → Manage Billing** to:
+Go to **Account → Admin Settings → Billing** to:
 
-* **View usage history:** See your **billing** activity and **Credits** usage history.
-* **Update payment methods:** Add, remove, or set a **default** payment method (via Stripe).
+* **View usage history:** See your billing activity and credits usage history.
+* **Update payment methods:** Add, remove, or set a default payment method (via Stripe).
 * **View & download invoices:** Access past invoices/receipts anytime.
 
 > **Who can manage billing:** **Workspace Owners** and users with the **Billing** role.
