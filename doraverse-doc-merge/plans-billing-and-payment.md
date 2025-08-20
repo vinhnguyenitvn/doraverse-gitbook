@@ -20,17 +20,22 @@ description: >-
 
 ## Plan Overview
 
-With Doraverse, you get a simple, scalable hybrid pricing model—flat-fee base subscription, per-seat add-ons, and flexible credit top-ups.
+We offer plan options that fit how you work and who you work with:
 
-<table><thead><tr><th width="159.73687744140625" valign="middle">Plan</th><th>Individual</th><th>Business</th></tr></thead><tbody><tr><td valign="middle">Default Monthly Credits </td><td>5,000 Credits</td><td>50,000 Credits (entire workspace )</td></tr><tr><td valign="middle">Default Seats Included</td><td>1</td><td>5</td></tr><tr><td valign="middle">Add-On Seats</td><td>Not available</td><td>Available at an additional cost per seat</td></tr><tr><td valign="middle">Best For</td><td>Solo users, personal projects</td><td>Small to large teams, business organizations</td></tr></tbody></table>
+* **Individuals (Starter, Pro)** — for one person; best for solo use and personal work.&#x20;
+* **Business** — best for teams and businesses (multi-seat included).
+
+Every base subscription includes a default number of seats and monthly credit.
+
+For the latest plan options, inclusions, and pricing, check our [**Pricing page**](https://doraverse.com/pricing).
 
 {% hint style="info" %}
 Regional Pricing: Pricing is displayed in local currency at checkout. Applicable taxes will be calculated.
 {% endhint %}
 
-For details on plans, pricing, and benefits, visit our [Pricing page.](https://doraverse.com/pricing)
+***
 
-### 14-Day Free Trial with Free Credit Included
+### Trial with Free Credit Included
 
 For 14 days, your workspace will have full access to all Doraverse features and services — with no limitations and no credit card required.
 
@@ -56,13 +61,11 @@ This means the first paid billing period runs from August 15 to September 15, no
 
 ## Seats & Proration (Business Plan)
 
-Doraverse uses a **flexible seat add-on model** that grows with your team.
+Doraverse offers a **flexible seat add-on** that grows with your team.
 
-### Extra Seats
+### Adding Seats
 
-#### Adding seats
-
-* The Business Plan includes **5 seats** by default. You can add extra seats anytime. Each extra seat has an **additional per-seat cost** (varies by region; see **Billing** before confirming).
+The Business Plan includes **5 seats** by default. You can add extra seats anytime. Each extra seat has an **additional per-seat cost** (varies by region; see **Billing** before confirming).
 
 #### **Credits from extra seats**
 
@@ -128,11 +131,27 @@ Credits are always consumed in this order: **Free credit → Monthly credit → 
 
 ## Change Plans
 
-You can switch plans between **Individual** and **Business** anytime in **Billing**.
+Admins can switch between plans at any time. Before confirming, review how the change affects members, seats, and billing.
 
-* The **new plan takes effect immediately** once the payment is processed.
-* The **subscription fee is prorated** for the **days remaining** in your current cycle, and any **unused amount is credited to your next invoice** (applied as a balance or discount on future billing).
-* **Monthly credits reset immediately** to the amount in your new plan. **Prepaid** and **free** credits are unaffected.
+### **Moving to a Business/Team plan**
+
+* **Seats & members:** Multi-seat support turns on; you can invite people anytime.
+* **Admin access:** Unlock full Admin Settings — **Reporting** (user activity, model usage), **Member Management**, and **Workspace Settings** (branding, departments, custom domain).
+* **Billing:** Charge applies immediately. **Mid-cycle changes are prorated** for the remaining days; any unused amount is credited to your account and applied to future invoices.
+* **Credits:** Monthly credits reset to the new plan. Prepaid/free credits remain.
+
+### **Moving to an Individuals plan**
+
+* **Seats & members:** All non-owner members are **removed** and **lose access**.
+* **Admin access:**&#x20;
+  * Access to **Reporting** (user activity, model usage) is **removed**.
+  * Budget limitations and related settings are **deleted**.
+* **Billing:** Effective **immediately**; charges **prorated**
+* **Credits:** Monthly credits reset to the new plan. Prepaid/free credits remain.
+
+{% hint style="info" %}
+**Important:** Changes to these admin settings are **irreversible** and **won’t be restored automatically** if you switch back later.
+{% endhint %}
 
 ***
 
@@ -158,7 +177,7 @@ You can **resume** any time in **Billing**. Access to all workspace features is 
 **When you’re charged:**
 
 * **Subscription start/renewal:** Charged on your **billing day** each month.
-* **Change plan (Individual ↔ Business):** Charged **immediately** after payment.&#x20;
+* **Change plan:** Charged **immediately** after payment.&#x20;
 * **Add more seats:** Charged immediately. If added mid-cycle, the charge is prorated for the days remaining in the current cycle.
 * **Prepaid credit top-ups:** Charged at purchase.
 
