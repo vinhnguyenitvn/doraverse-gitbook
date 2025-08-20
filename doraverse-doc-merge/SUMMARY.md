@@ -39,7 +39,6 @@
 ***
 
 * [👤 Member Management](member-management.md)
-* [🧾 Billings](billings.md)
 * [⚠️ Usage Limits](usage-limits.md)
 * [🔀 Settings](settings/README.md)
   * [🧳 Workspace Setting](settings/workspace-setting/README.md)
