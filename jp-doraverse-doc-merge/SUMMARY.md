@@ -47,7 +47,6 @@
   * [🤖 Setup AI Models](setting/setup-ai-models.md)
   * [🚧 Setup AI Limits](setting/setup-ai-limits.md)
 * [💳 Plans, Billing & Payment](plans-billing-and-payment.md)
-* [🧾 Billings & Invoice](billings-and-invoice.md)
 
 ## Help Center <a href="#help" id="help"></a>
 
