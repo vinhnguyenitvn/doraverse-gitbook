@@ -8,8 +8,8 @@
 
 * [🚀 Getting Started](getting-started/README.md)
   * [What is Doraverse?](getting-started/what-is-doraverse.md)
-  * [Log in to Your Workspace in Doraverse](getting-started/log-in-to-your-workspace-in-doraverse.md)
-  * [Account Management](getting-started/account-management.md)
+  * [Log in to your Workspace](getting-started/log-in-to-your-workspace.md)
+  * [User Profile](getting-started/user-profile.md)
   * [Account Setting](getting-started/account-setting.md)
   * [Install Doraverse App](getting-started/install-doraverse-app.md)
 * [✅ Feature List](feature-list/README.md)
